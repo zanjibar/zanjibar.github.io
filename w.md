@@ -2,6 +2,6 @@
 [Basic Syntax github にあわないことたたあり](https://mermaid.js.org/syntax/flowchart.html)
 ```mermaid
 graph LR
-A((軽))============>B((深))
+A((トヨタ))====>|使っている|B((ビームライン))
 C--->D--->E--->F--->G
 ```
