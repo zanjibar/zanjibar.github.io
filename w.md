@@ -2,7 +2,7 @@
 [Basic Syntax github にあわないことたたあり](https://mermaid.js.org/syntax/flowchart.html)
 ```mermaid
 graph LR
-A((気づく))====>B((感じる))====>C((評価行動))
+A((数学))====>C((圏論))
 ```
 
 ```mermaid
